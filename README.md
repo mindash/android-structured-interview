@@ -6,7 +6,7 @@
 Interview Questions for getting you ready for your interview
 A small guide to help those looking to hire a developer for android.
 A great self-test if you're looking to keep current or practice for your own interview.
-All you need to know about iOS technical interview including some tips for preparing, questions and some coding exercises
+All you need to know about android technical interview including some tips for preparing, questions and some coding exercises
 
 
 ## Android domains
@@ -33,13 +33,13 @@ We have organized the questions to better address each focus point.
 - Activity Context
 - Services
 - Intent
+- Explicit/implicit Intent
 - Resource Externalization (strings and graphics)
 - Notification (light,sound,icon,notification,dialog box,and toast)
 - Content Providers
 - Activity
 - Fragment
 - APK
-- An Intent
 - Explicit/implicit Intent
 - What is An android manifest file?
 - nine-patch images?
@@ -95,7 +95,7 @@ We have organized the questions to better address each focus point.
 - Does Kotlin have the static keyword? How to create static methods in Kotlin?
 - What’s the type of the following Array?
 
-##  Java
+## Java
 - What are the main 3 Object Oriented Programing (OOP) concepts?
 - Explain object serialization and how to implement it in Java.
 - Explain anonymous classes. [info]
@@ -122,8 +122,10 @@ We have organized the questions to better address each focus point.
 - What are the use cases and differences of a HashSet and a TreeSet?
 
 ## Algorithms
+*IN PROGRESS*
 
 ## Security
+*IN PROGRESS*
 
 ## Tools
 - Ant
@@ -150,7 +152,7 @@ We have organized the questions to better address each focus point.
 - SQLite Databases
 
 ## PlayStore
-
+*IN PROGRESS*
 
 ## Contributions 
 If you want to add subjets of interviews. Those subjets can be added to RocketSkill App and if you want you will be named in in the question add contributors.
