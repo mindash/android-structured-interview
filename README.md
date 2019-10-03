@@ -11,7 +11,7 @@ All you need to know about android technical interview including some tips for p
 
 ## Android domains
 We have organized the questions to better address each focus point.
-- [Plateform](#plateform)
+- [Platform](#plateform)
 - [Memory Management](#memory-management)
 - [Kotlin](#kotlin)
 - [Java](#java)
@@ -25,7 +25,7 @@ We have organized the questions to better address each focus point.
 - [PlayStore](#playStore)
 
 
-## Plateform
+## Platform
 - What is Android?
 - who founded it?
 - What is Context?
